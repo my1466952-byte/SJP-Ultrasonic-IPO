@@ -140,11 +140,6 @@ GMP can change frequently and should not be treated as an official indication of
 
 The actual market price after listing depends on demand, supply, market conditions, company performance, investor sentiment, and other factors.
 
-## Reference
-
-For additional IPO information and updates, refer to the relevant IPO information page:
-
-https://www.finowings.com/IPO/sjp-ultrasonic-ipo
 
 ## Disclaimer
 
